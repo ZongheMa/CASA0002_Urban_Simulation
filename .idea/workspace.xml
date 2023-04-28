@@ -55,7 +55,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,6 +77,7 @@
       <workItem from="1682108814125" duration="9695000" />
       <workItem from="1682427300922" duration="56000" />
       <workItem from="1682430278721" duration="55295000" />
+      <workItem from="1682638727399" duration="1818000" />
     </task>
     <servers />
   </component>
