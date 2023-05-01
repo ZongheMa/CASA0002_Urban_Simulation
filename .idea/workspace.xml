@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="304dbe84-9003-4367-b61a-17cceec6b680" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Urbsimu report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compass-HMF40F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/code-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Urban Simulation Assessment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Urban Simulation Assessment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urbsimu report.md" beforeDir="false" afterPath="$PROJECT_DIR$/Urbsimu report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compass-HMF40F.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,7 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,6 +92,10 @@
       <workItem from="1682703243033" duration="5922000" />
       <workItem from="1682775133273" duration="54000" />
       <workItem from="1682775212177" duration="52767000" />
+      <workItem from="1682873556318" duration="6332000" />
+      <workItem from="1682898956075" duration="13716000" />
+      <workItem from="1682983127230" duration="714000" />
+      <workItem from="1682983892795" duration="755000" />
     </task>
     <servers />
   </component>
