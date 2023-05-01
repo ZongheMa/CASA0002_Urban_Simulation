@@ -375,5 +375,7 @@ Stack Overflow. (2020). *language agnostic - Google interview algorithm puzzle: 
 
 ## Code and comments
 
+The code and detailed comments are available here: https://github.com/ZongheMa/CASA0002_Urban_Simulation/blob/main/Urban%20Simulation%20Assessment.ipynb
+
 
 
