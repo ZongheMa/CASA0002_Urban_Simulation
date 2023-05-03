@@ -1,7 +1,4 @@
-# Urban Simulation Assessment Report
-
-[TOC]
-
+# Exploring London Underground network resilience
 
 
 ## Introduction
